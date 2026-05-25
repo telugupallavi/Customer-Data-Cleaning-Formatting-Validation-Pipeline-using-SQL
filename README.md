@@ -1,5 +1,5 @@
 
-
+#Customer Data Cleaning, Formatting & Validation Pipeline using SQL
 
 ## 1. Project Title
 
