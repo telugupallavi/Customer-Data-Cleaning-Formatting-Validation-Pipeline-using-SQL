@@ -255,6 +255,22 @@ Created a final cleaned dataset after removing duplicates.
 ```sql
 SELECT * FROM final_customers;
 ```
++-------------+--------------+--------------------+------------+-----------+-----------+---------------------+
+| customer_id | full_name    | email              | phone      | city      | username  | comments            |
++-------------+--------------+--------------------+------------+-----------+-----------+---------------------+
+|        1001 | SAI KUMAR    | sai@gmail.com      | 9876543210 | HYDERABAD | saiking   | GOOD CUSTOMER       |
+|        1002 | RAM CHARAN   | ram@yahoo.com      | 9123456780 | CHENNAI   | ram123    | REGULAR BUYER       |
+|        1003 | ANITHA REDDY | anitha@outlook.com | 9988776655 | BANGALORE | anur      | LATE PAYMENT        |
+|        1004 | KIRAN KUMAR  | kiran@mail.com     | 9012345678 | MUMBAI    | kiran007  | VIP CLIENT          |
+|        1005 | MEENA SHARMA | meena@gmail.com    | 9090909090 | DELHI     | meenastar | NEW CUSTOMER        |
+|        1006 | JOHN DOE     | john@gmail.com     | 8888888888 | PUNE      | john1     | HIGH VALUE CUSTOMER |
+|        1007 | SURESH BABU  | suresh@yahoo.com   | 7777777777 | KOLKATA   | suresh45  | RETURNS FREQUENTLY  |
+|        1008 | PRIYA SHARMA | priya@mail.com     | 6666666666 | HYDERABAD | priya123  | INACTIVE USER       |
+|        1009 | DAVID MILLER | david@gmail.com    | 9555555555 | GOA       | davidking | TEST ACCOUNT        |
+|        1010 | KAVYA REDDY  | kavya@yahoo.com    | 9444444444 | CHENNAI   | kavyar    | PREMIUM MEMBER      |
++-------------+--------------+--------------------+------------+-----------+-----------+---------------------+
+
+
 
 **Purpose:**
 Verified the cleaned and standardized dataset.
