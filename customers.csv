@@ -1,0 +1,101 @@
+customer_id,full_name,email,phone,city,username,comments
+1001, Sai Kumar ,SAI@GMAIL.COM ,987-654-3210, Hyderabad ,Sai_King,good customer
+1002,rAm Charan, RAM@YAHOO.COM,91234 56780,CHENNAI,Ram_123,regular buyer
+1003,  ANITHA REDDY ,Anitha@Outlook.Com ,99887-76655, bangalore ,Anu_R,late payment
+1004,kiran kumar,KIRAN@MAIL.COM ,90123-45678,MUMBAI ,Kiran007,VIP client
+1005,Meena Sharma , meena@gmail.com,90909 09090, delhi,Meena_star,new customer
+1006,JOHN DOE, JOHN@GMAIL.COM ,88888-88888,PUNE,John#1,high value customer
+1007,suresh babu,SURESH@YAHOO.COM,77777 77777, kolkata ,Suresh_45,returns frequently
+1008,Priya Sharma , PRIYA@MAIL.COM ,66666-66666,HYDERABAD,Priya@123,inactive user
+1009,   david miller ,DAVID@GMAIL.COM ,95555 55555,goa ,DavidKing,test account
+1010,KAVYA REDDY,KAVYA@YAHOO.COM,94444-44444, Chennai ,Kavya_R,premium member
+1011, Sai Kumar ,SAI11@GMAIL.COM ,987-654-3210, Hyderabad ,Sai_King11,good customer
+1012,rAm Charan, RAM12@YAHOO.COM,91234 56780,CHENNAI,Ram_12312,regular buyer
+1013,  ANITHA REDDY ,Anitha13@Outlook.Com ,99887-76655, bangalore ,Anu_R13,late payment
+1014,kiran kumar,KIRAN14@MAIL.COM ,90123-45678,MUMBAI ,Kiran00714,VIP client
+1015,Meena Sharma , meena15@gmail.com,90909 09090, delhi,Meena_star15,new customer
+1016,JOHN DOE, JOHN16@GMAIL.COM ,88888-88888,PUNE,John#16,high value customer
+1017,suresh babu,SURESH17@YAHOO.COM,77777 77777, kolkata ,Suresh_4517,returns frequently
+1018,Priya Sharma , PRIYA18@MAIL.COM ,66666-66666,HYDERABAD,Priya@18123,inactive user
+1019,   david miller ,DAVID19@GMAIL.COM ,95555 55555,goa ,DavidKing19,test account
+1020,KAVYA REDDY,KAVYA20@YAHOO.COM,94444-44444, Chennai ,Kavya_R20,premium member
+1021, Sai Kumar ,SAI21@GMAIL.COM ,987-654-3210, Hyderabad ,Sai_King21,good customer
+1022,rAm Charan, RAM22@YAHOO.COM,91234 56780,CHENNAI,Ram_12322,regular buyer
+1023,  ANITHA REDDY ,Anitha23@Outlook.Com ,99887-76655, bangalore ,Anu_R23,late payment
+1024,kiran kumar,KIRAN24@MAIL.COM ,90123-45678,MUMBAI ,Kiran00724,VIP client
+1025,Meena Sharma , meena25@gmail.com,90909 09090, delhi,Meena_star25,new customer
+1026,JOHN DOE, JOHN26@GMAIL.COM ,88888-88888,PUNE,John#26,high value customer
+1027,suresh babu,SURESH27@YAHOO.COM,77777 77777, kolkata ,Suresh_4527,returns frequently
+1028,Priya Sharma , PRIYA28@MAIL.COM ,66666-66666,HYDERABAD,Priya@28123,inactive user
+1029,   david miller ,DAVID29@GMAIL.COM ,95555 55555,goa ,DavidKing29,test account
+1030,KAVYA REDDY,KAVYA30@YAHOO.COM,94444-44444, Chennai ,Kavya_R30,premium member
+1031, Sai Kumar ,SAI31@GMAIL.COM ,987-654-3210, Hyderabad ,Sai_King31,good customer
+1032,rAm Charan, RAM32@YAHOO.COM,91234 56780,CHENNAI,Ram_12332,regular buyer
+1033,  ANITHA REDDY ,Anitha33@Outlook.Com ,99887-76655, bangalore ,Anu_R33,late payment
+1034,kiran kumar,KIRAN34@MAIL.COM ,90123-45678,MUMBAI ,Kiran00734,VIP client
+1035,Meena Sharma , meena35@gmail.com,90909 09090, delhi,Meena_star35,new customer
+1036,JOHN DOE, JOHN36@GMAIL.COM ,88888-88888,PUNE,John#36,high value customer
+1037,suresh babu,SURESH37@YAHOO.COM,77777 77777, kolkata ,Suresh_4537,returns frequently
+1038,Priya Sharma , PRIYA38@MAIL.COM ,66666-66666,HYDERABAD,Priya@38123,inactive user
+1039,   david miller ,DAVID39@GMAIL.COM ,95555 55555,goa ,DavidKing39,test account
+1040,KAVYA REDDY,KAVYA40@YAHOO.COM,94444-44444, Chennai ,Kavya_R40,premium member
+1041, Sai Kumar ,SAI41@GMAIL.COM ,987-654-3210, Hyderabad ,Sai_King41,good customer
+1042,rAm Charan, RAM42@YAHOO.COM,91234 56780,CHENNAI,Ram_12342,regular buyer
+1043,  ANITHA REDDY ,Anitha43@Outlook.Com ,99887-76655, bangalore ,Anu_R43,late payment
+1044,kiran kumar,KIRAN44@MAIL.COM ,90123-45678,MUMBAI ,Kiran00744,VIP client
+1045,Meena Sharma , meena45@gmail.com,90909 09090, delhi,Meena_star45,new customer
+1046,JOHN DOE, JOHN46@GMAIL.COM ,88888-88888,PUNE,John#46,high value customer
+1047,suresh babu,SURESH47@YAHOO.COM,77777 77777, kolkata ,Suresh_4547,returns frequently
+1048,Priya Sharma , PRIYA48@MAIL.COM ,66666-66666,HYDERABAD,Priya@48123,inactive user
+1049,   david miller ,DAVID49@GMAIL.COM ,95555 55555,goa ,DavidKing49,test account
+1050,KAVYA REDDY,KAVYA50@YAHOO.COM,94444-44444, Chennai ,Kavya_R50,premium member
+1051, Sai Kumar ,SAI51@GMAIL.COM ,987-654-3210, Hyderabad ,Sai_King51,good customer
+1052,rAm Charan, RAM52@YAHOO.COM,91234 56780,CHENNAI,Ram_12352,regular buyer
+1053,  ANITHA REDDY ,Anitha53@Outlook.Com ,99887-76655, bangalore ,Anu_R53,late payment
+1054,kiran kumar,KIRAN54@MAIL.COM ,90123-45678,MUMBAI ,Kiran00754,VIP client
+1055,Meena Sharma , meena55@gmail.com,90909 09090, delhi,Meena_star55,new customer
+1056,JOHN DOE, JOHN56@GMAIL.COM ,88888-88888,PUNE,John#56,high value customer
+1057,suresh babu,SURESH57@YAHOO.COM,77777 77777, kolkata ,Suresh_4557,returns frequently
+1058,Priya Sharma , PRIYA58@MAIL.COM ,66666-66666,HYDERABAD,Priya@58123,inactive user
+1059,   david miller ,DAVID59@GMAIL.COM ,95555 55555,goa ,DavidKing59,test account
+1060,KAVYA REDDY,KAVYA60@YAHOO.COM,94444-44444, Chennai ,Kavya_R60,premium member
+1061, Sai Kumar ,SAI61@GMAIL.COM ,987-654-3210, Hyderabad ,Sai_King61,good customer
+1062,rAm Charan, RAM62@YAHOO.COM,91234 56780,CHENNAI,Ram_12362,regular buyer
+1063,  ANITHA REDDY ,Anitha63@Outlook.Com ,99887-76655, bangalore ,Anu_R63,late payment
+1064,kiran kumar,KIRAN64@MAIL.COM ,90123-45678,MUMBAI ,Kiran00764,VIP client
+1065,Meena Sharma , meena65@gmail.com,90909 09090, delhi,Meena_star65,new customer
+1066,JOHN DOE, JOHN66@GMAIL.COM ,88888-88888,PUNE,John#66,high value customer
+1067,suresh babu,SURESH67@YAHOO.COM,77777 77777, kolkata ,Suresh_4567,returns frequently
+1068,Priya Sharma , PRIYA68@MAIL.COM ,66666-66666,HYDERABAD,Priya@68123,inactive user
+1069,   david miller ,DAVID69@GMAIL.COM ,95555 55555,goa ,DavidKing69,test account
+1070,KAVYA REDDY,KAVYA70@YAHOO.COM,94444-44444, Chennai ,Kavya_R70,premium member
+1071, Sai Kumar ,SAI71@GMAIL.COM ,987-654-3210, Hyderabad ,Sai_King71,good customer
+1072,rAm Charan, RAM72@YAHOO.COM,91234 56780,CHENNAI,Ram_12372,regular buyer
+1073,  ANITHA REDDY ,Anitha73@Outlook.Com ,99887-76655, bangalore ,Anu_R73,late payment
+1074,kiran kumar,KIRAN74@MAIL.COM ,90123-45678,MUMBAI ,Kiran00774,VIP client
+1075,Meena Sharma , meena75@gmail.com,90909 09090, delhi,Meena_star75,new customer
+1076,JOHN DOE, JOHN76@GMAIL.COM ,88888-88888,PUNE,John#76,high value customer
+1077,suresh babu,SURESH77@YAHOO.COM,77777 77777, kolkata ,Suresh_4577,returns frequently
+1078,Priya Sharma , PRIYA78@MAIL.COM ,66666-66666,HYDERABAD,Priya@78123,inactive user
+1079,   david miller ,DAVID79@GMAIL.COM ,95555 55555,goa ,DavidKing79,test account
+1080,KAVYA REDDY,KAVYA80@YAHOO.COM,94444-44444, Chennai ,Kavya_R80,premium member
+1081, Sai Kumar ,SAI81@GMAIL.COM ,987-654-3210, Hyderabad ,Sai_King81,good customer
+1082,rAm Charan, RAM82@YAHOO.COM,91234 56780,CHENNAI,Ram_12382,regular buyer
+1083,  ANITHA REDDY ,Anitha83@Outlook.Com ,99887-76655, bangalore ,Anu_R83,late payment
+1084,kiran kumar,KIRAN84@MAIL.COM ,90123-45678,MUMBAI ,Kiran00784,VIP client
+1085,Meena Sharma , meena85@gmail.com,90909 09090, delhi,Meena_star85,new customer
+1086,JOHN DOE, JOHN86@GMAIL.COM ,88888-88888,PUNE,John#86,high value customer
+1087,suresh babu,SURESH87@YAHOO.COM,77777 77777, kolkata ,Suresh_4587,returns frequently
+1088,Priya Sharma , PRIYA88@MAIL.COM ,66666-66666,HYDERABAD,Priya@88123,inactive user
+1089,   david miller ,DAVID89@GMAIL.COM ,95555 55555,goa ,DavidKing89,test account
+1090,KAVYA REDDY,KAVYA90@YAHOO.COM,94444-44444, Chennai ,Kavya_R90,premium member
+1091, Sai Kumar ,SAI91@GMAIL.COM ,987-654-3210, Hyderabad ,Sai_King91,good customer
+1092,rAm Charan, RAM92@YAHOO.COM,91234 56780,CHENNAI,Ram_12392,regular buyer
+1093,  ANITHA REDDY ,Anitha93@Outlook.Com ,99887-76655, bangalore ,Anu_R93,late payment
+1094,kiran kumar,KIRAN94@MAIL.COM ,90123-45678,MUMBAI ,Kiran00794,VIP client
+1095,Meena Sharma , meena95@gmail.com,90909 09090, delhi,Meena_star95,new customer
+1096,JOHN DOE, JOHN96@GMAIL.COM ,88888-88888,PUNE,John#96,high value customer
+1097,suresh babu,SURESH97@YAHOO.COM,77777 77777, kolkata ,Suresh_4597,returns frequently
+1098,Priya Sharma , PRIYA98@MAIL.COM ,66666-66666,HYDERABAD,Priya@98123,inactive user
+1099,   david miller ,DAVID99@GMAIL.COM ,95555 55555,goa ,DavidKing99,test account
+1100,KAVYA REDDY,KAVYA100@YAHOO.COM,94444-44444, Chennai ,Kavya_R100,premium member
