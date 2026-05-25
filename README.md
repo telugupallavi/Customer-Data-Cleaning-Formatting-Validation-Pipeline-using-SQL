@@ -255,7 +255,7 @@ Created a final cleaned dataset after removing duplicates.
 ```sql
 SELECT * FROM final_customers;
 ```
-
+![Final Clean Data Screenshot](out.png)
 
 
 **Purpose:**
